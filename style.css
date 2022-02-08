@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+  background-image: linear-gradient(to right,#468ab1,#749bb8,#f08b6f);
+  font-family: monospace;
+  color: white;
+}
+h1 {
+  /* align-content: center; */
+  text-align: center;
+  font-size: 250%;
+  /* font-family: monospace;
+  color: white; */
+  /* background-color: #468ab1; */
+}
+h2{
+  font-size: 120%;
+}
+/* .fixedimg{
+  position: fixed;
+} */
+pre{
+  /* font-stretch:semi-expanded; */
+  font-size: 120%;
+  text-align:center;
+  font-weight:bold;
+  /* font-style:normal; */
+}
